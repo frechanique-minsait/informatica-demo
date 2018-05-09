@@ -6,6 +6,11 @@
   "scripts": {
     "start": "node server.js"
   },
+  "dependencies":{
+    "express": "latest",
+    "mongodb": "latest"
+    "body-parser": "latest"
+  },
   "author": "frechanique",
   "license": "MIT"
 }
